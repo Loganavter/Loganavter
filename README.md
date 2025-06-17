@@ -4,7 +4,7 @@
       <h2>Hi there 👋</h2>
       <ul>
         <li>Just a coder vibing out 😎</li>
-        <li>And by "vibing," I mean I have no idea how to actually write code. That's what a <b>vibecoder</b> is, look it up!</li>
+        <li>And by "vibing," I mean I have no idea how to actually write code. That's what a <b>vibecoder</b> is, look it up! 💅</li>
         <li>I use Arch, btw—see the proof on the right 💥</li>
         <li>I also dabble in AI-powered media restoration, but you're not getting any links 😠</li>
         <li>Wanna reach out? Hit me up at: dealmail_loganavter@proton.me 😳</li>
