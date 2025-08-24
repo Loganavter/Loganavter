@@ -27,6 +27,12 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loganavter&repo=Improve-ImgSLI&theme=dracula&show_owner=true" alt="Improve-ImgSLI Repo Stats">
       </a>
     </td>
+      <tr>
+    <td width="50%">
+      <a href="https://github.com/Loganavter/Tkonverter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loganavter&repo=Tkonverter&theme=dracula&show_owner=true" alt="Improve-ImgSLI Repo Stats">
+      </a>
+    </td>
     <td width="50%">
       <a href="https://github.com/Loganavter/VobSub-Index-File-Fast-Editor">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loganavter&repo=VobSub-Index-File-Fast-Editor&theme=dracula&show_owner=true" alt="VobSub-Index-File-Fast-Editor Repo Stats">
