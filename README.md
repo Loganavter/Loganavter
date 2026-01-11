@@ -17,33 +17,39 @@
 </table>
 
 ---
-
+vercel-olive-kappa.vercel.app
 ### 🚀 My Pet Projects
 
 <table>
   <tr>
     <td width="50%">
       <a href="https://github.com/Loganavter/Improve-ImgSLI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loganavter&repo=Improve-ImgSLI&theme=dracula&show_owner=true" alt="Improve-ImgSLI Repo Stats">
+        <img src="https://vercel-4gmg.vercel.app/api/pin/?username=Loganavter&repo=Improve-ImgSLI&theme=dracula&show_owner=true" alt="Improve-ImgSLI Repo Stats">
       </a>
     </td>
     <td width="50%">
       <!-- Tkonverter перемещен сюда, в верхний правый угол -->
       <a href="https://github.com/Loganavter/Tkonverter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loganavter&repo=Tkonverter&theme=dracula&show_owner=true" alt="Tkonverter Repo Stats">
+        <img src="https://vercel-4gmg.vercel.app/api/pin/?username=Loganavter&repo=Tkonverter&theme=dracula&show_owner=true" alt="Tkonverter Repo Stats">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/Loganavter/Denoise-Compact">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loganavter&repo=Denoise-Compact&theme=dracula&show_owner=true" alt="Denoise-Compact Repo Stats">
+        <img src="https://vercel-4gmg.vercel.app/api/pin/?username=Loganavter&repo=Denoise-Compact&theme=dracula&show_owner=true" alt="Denoise-Compact Repo Stats">
       </a>
     </td>
     <td width="50%">
       <!-- VobSub-Index-File-Fast-Editor перемещен сюда -->
       <a href="https://github.com/Loganavter/VobSub-Index-File-Fast-Editor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loganavter&repo=VobSub-Index-File-Fast-Editor&theme=dracula&show_owner=true" alt="VobSub-Index-File-Fast-Editor Repo Stats">
+        <img src="https://vercel-4gmg.vercel.app/api/pin/?username=Loganavter&repo=VobSub-Index-File-Fast-Editor&theme=dracula&show_owner=true" alt="VobSub-Index-File-Fast-Editor Repo Stats">
+      </a>
+    </td>
+      <tr>
+    <td width="50%">
+      <a href="https://github.com/Loganavter/https://github.com/Loganavter/Archivist-Project-Denoiser">
+        <img src="https://vercel-4gmg.vercel.app/api/pin/?username=Loganavter&repo=Archivist-Project-Denoiser&theme=dracula&show_owner=true" alt="Denoise-Compact Repo Stats">
       </a>
     </td>
   </tr>
@@ -81,7 +87,7 @@ The name "Loganavter" breaks down like this: "Log" comes from my first associati
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loganavter&show_icons=true&theme=dracula&count_private=true" alt="Loganavter's GitHub stats">
+  <img src="https://vercel-4gmg.vercel.app/api?username=Loganavter&show_icons=true&theme=dracula&count_private=true" alt="Loganavter's GitHub stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loganavter&layout=compact&theme=dracula" alt="Top Languages">
+  <img src="https://vercel-4gmg.vercel.app/api/top-langs/?username=Loganavter&layout=compact&theme=dracula" alt="Top Languages">
 </p>
