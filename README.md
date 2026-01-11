@@ -36,8 +36,8 @@ vercel-olive-kappa.vercel.app
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Loganavter/Denoise-Compact">
-        <img src="https://vercel-4gmg.vercel.app/api/pin/?username=Loganavter&repo=Denoise-Compact&theme=dracula&show_owner=true" alt="Denoise-Compact Repo Stats">
+      <a href="https://github.com/Loganavter/https://github.com/Loganavter/Archivist-Project-Denoiser">
+        <img src="https://vercel-4gmg.vercel.app/api/pin/?username=Loganavter&repo=Archivist-Project-Denoiser&theme=dracula&show_owner=true" alt="Denoise-Compact Repo Stats">
       </a>
     </td>
     <td width="50%">
@@ -47,11 +47,6 @@ vercel-olive-kappa.vercel.app
       </a>
     </td>
       <tr>
-    <td width="50%">
-      <a href="https://github.com/Loganavter/https://github.com/Loganavter/Archivist-Project-Denoiser">
-        <img src="https://vercel-4gmg.vercel.app/api/pin/?username=Loganavter&repo=Archivist-Project-Denoiser&theme=dracula&show_owner=true" alt="Denoise-Compact Repo Stats">
-      </a>
-    </td>
   </tr>
 </table>
 
